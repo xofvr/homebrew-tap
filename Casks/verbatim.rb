@@ -1,6 +1,6 @@
 cask "verbatim" do
-  version "1.1.0"
-  sha256 "ae59f78621c3e4af4298fc871b3eccb7be21721650140931072a0fba03fcde9c"
+  version "1.1.1"
+  sha256 "a95c938bfecd5c1b2fd4f77e9832857feefc6eb397dbdfcc1333f572caf39118"
 
   url "https://github.com/xofvr/Verbatim/releases/download/v#{version}/Verbatim-#{version}.dmg"
   name "Verbatim"
