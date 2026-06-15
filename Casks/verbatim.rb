@@ -5,7 +5,7 @@ cask "verbatim" do
   url "https://github.com/xofvr/Verbatim/releases/download/v#{version}/Verbatim-#{version}.dmg",
       verified: "github.com/xofvr/Verbatim/"
   name "Verbatim"
-  desc "Real-time on-device speech-to-text for macOS"
+  desc "Real-time on-device speech-to-text"
   homepage "https://github.com/xofvr/Verbatim"
 
   livecheck do
